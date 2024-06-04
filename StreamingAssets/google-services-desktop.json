@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904456306445",
+    "project_id": "rajaauth-84650",
+    "storage_bucket": "rajaauth-84650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904456306445:android:ae1d031a4f33c77eb4ba44",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.RajaClub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvGssO3BQ0uWSVfm3gulcMxd3nkdz71Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
